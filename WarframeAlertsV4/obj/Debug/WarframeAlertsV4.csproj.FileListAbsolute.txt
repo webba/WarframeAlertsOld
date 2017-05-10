@@ -1,0 +1,10 @@
+E:\codeing\c# projects\WarframeAlertsV4\WarframeAlertsV4\bin\Debug\WarframeAlertsV4.exe.config
+E:\codeing\c# projects\WarframeAlertsV4\WarframeAlertsV4\bin\Debug\WarframeAlertsV4.exe
+E:\codeing\c# projects\WarframeAlertsV4\WarframeAlertsV4\bin\Debug\WarframeAlertsV4.pdb
+E:\codeing\c# projects\WarframeAlertsV4\WarframeAlertsV4\obj\Debug\WarframeAlertsV4.csprojResolveAssemblyReference.cache
+E:\codeing\c# projects\WarframeAlertsV4\WarframeAlertsV4\obj\Debug\WarframeAlertsV4.Properties.Resources.resources
+E:\codeing\c# projects\WarframeAlertsV4\WarframeAlertsV4\obj\Debug\WarframeAlertsV4.csproj.GenerateResource.Cache
+E:\codeing\c# projects\WarframeAlertsV4\WarframeAlertsV4\obj\Debug\WarframeAlertsV4.exe
+E:\codeing\c# projects\WarframeAlertsV4\WarframeAlertsV4\obj\Debug\WarframeAlertsV4.pdb
+E:\codeing\c# projects\WarframeAlertsV4\WarframeAlertsV4\obj\Debug\WarframeAlertsV4.Form1.resources
+E:\codeing\c# projects\WarframeAlertsV4\WarframeAlertsV4\bin\Debug\Icon1.ico
